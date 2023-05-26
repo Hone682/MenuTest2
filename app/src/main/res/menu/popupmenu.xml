@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="스마트모바일 프로그래밍"
+        android:id="@+id/smp"/>
+    <item
+        android:title="배경색 : 고급프로그래밍"
+        android:id="@+id/advp"/>
+    <item
+        android:title="배경색 : 데이터베이스"
+        android:id="@+id/db"/>
+</menu>
